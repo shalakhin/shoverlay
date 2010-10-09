@@ -1,3 +1,6 @@
 This is the overlay of Olexandr Shalakhin made for Gentoo GNU/Linux community.
 
 My goal here is to make ebuilds for interesting applications for Gentoo.
+
+Overlay includes:
+xsplash - 0.8.5
